@@ -11,11 +11,11 @@ The main feature of this website are :
 
 https://fonts.google.com/specimen/Poppins
 
-Editor : - visual studio code with Laetus: Dark Vibrant Theme
-Browser : - google chrome
-UI Tool : - Figma
-localhost : xampp
-Images / Video / SVG : - 
+### Editor : - visual studio code with Laetus: Dark Vibrant Theme
+### Browser : - google chrome
+### UI Tool : - Figma
+### localhost : xampp
+### Images / Video / SVG : - 
 01 - https://www.freepik.com/
 02 - https://storyset.com/
 03 - https://undraw.co/
